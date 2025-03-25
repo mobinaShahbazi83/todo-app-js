@@ -63,7 +63,7 @@ button {
     cursor: pointer;
     padding: 10px 15px;
     border-radius: 5px;
-    margin: 15px;
+   
 }
 
 button:hover {
@@ -74,11 +74,11 @@ button:hover {
     width: 100%;
     display: flex;
     justify-content: space-between;
+    margin: 18px;
 }
 
 #delete-all-button {
     background-color: var(--color-error);
-    margin-right: 3px;
 }
 
 table {
